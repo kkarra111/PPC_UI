@@ -11,7 +11,7 @@ import random
 
 # ---------- PAGE CONFIG ----------
 st.set_page_config(
-    page_title="SAP Repricing Automation",
+    page_title="Proactive Price Control",
     page_icon="⚙️",
     layout="wide",
     initial_sidebar_state="expanded"
