@@ -178,7 +178,7 @@ with st.sidebar.expander("🔎 Quick Filters", expanded=False):
 st.markdown('<div class="command-bar">', unsafe_allow_html=True)
 c1, c2, c3, c4, c5 = st.columns([1.5, 1, 1, 1, 1])
 with c1:
-    st.markdown("### ⚙️ Streamlit Control Center – SAP Repricing")
+    st.markdown("### ⚙️ Proactive Price Control")
     st.caption("All runs, reviews and reporting in one place.")
 with c2:
     if st.button("▶️ Full Cycle", use_container_width=True, type="primary"):
