@@ -1,7 +1,5 @@
 streamlit
 pandas
-xlwings
-pywin32
 apscheduler
 requests
 msal
